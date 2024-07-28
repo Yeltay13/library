@@ -1,0 +1,22 @@
+body {
+    font-family: Arial,  sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+#new-book-form {
+    margin-bottom: 20px;
+}
+#new-book-form input, #new-book-form button {
+    margin: 5px 0;
+    padding: 5px;
+}
+.book-card {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.book-card button {
+    margin-right: 5px;
+}
